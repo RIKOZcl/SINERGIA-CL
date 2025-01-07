@@ -188,3 +188,9 @@
         .leaflet-popup-pane {
             z-index: 700;
         }
+#popup-content {
+    max-height: 15vw !important;
+    }
+    th, td {
+    min-width: 200px;
+    }
